@@ -141,6 +141,7 @@
     <Content Include="BlackJack\_enonce\Exercice2.txt" />
     <Content Include="BlackJack\_enonce\Exercice3.txt" />
     <Content Include="BlackJack\_enonce\Exercice4.txt" />
+    <Content Include="BlackJack\_enonce\Exercice5.txt" />
     <Content Include="BowlingGame\TheBowlingGameKata.txt" />
     <Content Include="CA_CIB\_enonce\Exercice5.txt" />
     <Content Include="CA_CIB\_enonce\Exercice4.txt" />
