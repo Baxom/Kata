@@ -1,0 +1,1 @@
+﻿Faire en sorte que l'objet truffe est une quantité de 8 et un prix uitaire de 80, l'objet doit renvoyer son prix

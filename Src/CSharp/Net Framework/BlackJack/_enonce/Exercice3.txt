@@ -1,0 +1,8 @@
+﻿Determiner si une main est gagnante ou si elle est perdante.
+
+Au black jack, la main est perdante si le score de 21 est strictement dépassé.
+
+Si le score de 21 (qui est le score maximal atteingnable avec une main sans que celle ci devienne perdante) est atteint avec seulement 2 cartes
+alors c est un black jack.
+
+Une fois qu'une main à atteint 21 ou est supérieure au égale à 21 elle ne peut plus recevoir de carte.

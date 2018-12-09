@@ -1,0 +1,1 @@
+﻿Faire en sorte que l'objet pomme est une quantité de 10 et un prix uitaire de 25, l'objet doit renvoyer son prix

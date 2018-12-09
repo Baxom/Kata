@@ -1,0 +1,1 @@
+﻿Faire en sorte que l'objet pasta est une quantité de 50 et un prix uitaire de 12, l'objet doit renvoyer son prix

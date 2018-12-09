@@ -1,0 +1,2 @@
+﻿Lorsqu'un main dépasse la valeur 21, mais contient un as, on peut recaclculer la main en considérant que l'as vaut 1 et non 11.
+Prendre en compte cette régle métier dans le calcul d'un main

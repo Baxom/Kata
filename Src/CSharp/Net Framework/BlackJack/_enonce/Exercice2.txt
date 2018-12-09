@@ -1,0 +1,1 @@
+﻿Calculer la valeur d'une main. La valeur d'un main s'obtient en additionnant les valeurs de chaque cartes

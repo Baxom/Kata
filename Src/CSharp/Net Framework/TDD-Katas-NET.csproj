@@ -72,8 +72,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BlackJack\Hand.cs" />
+    <Compile Include="BlackJack\Card.cs" />
+    <Compile Include="BlackJack\ICard.cs" />
+    <Compile Include="BlackJack\IHand.cs" />
+    <Compile Include="BlackJack\_Tests\Exercice1.cs" />
+    <Compile Include="BlackJack\_Tests\Exercice2.cs" />
+    <Compile Include="BlackJack\_Tests\Exercice3.cs" />
+    <Compile Include="BlackJack\_Tests\Exercice4.cs" />
     <Compile Include="BowlingGame\Game.cs" />
     <Compile Include="BowlingGame\TestGame.cs" />
+    <Compile Include="CA_CIB\Fruits\Aliment.cs" />
+    <Compile Include="CA_CIB\Fruits\IProduct.cs" />
+    <Compile Include="CA_CIB\Fruits\Promotion.cs" />
+    <Compile Include="CA_CIB\Fruits\Truffes.cs" />
+    <Compile Include="CA_CIB\Fruits\Pasta.cs" />
+    <Compile Include="CA_CIB\Fruits\Apple.cs" />
+    <Compile Include="CA_CIB\Shelves\ElectronicShelve.cs" />
+    <Compile Include="CA_CIB\Shelves\ClotheShelve.cs" />
+    <Compile Include="CA_CIB\Shelves\FruitShelve.cs" />
+    <Compile Include="CA_CIB\Shelves\ShelveBase.cs" />
+    <Compile Include="CA_CIB\Shelves\ShelvesFactory.cs" />
+    <Compile Include="CA_CIB\Shelves\TypeShelves.cs" />
+    <Compile Include="CA_CIB\_Tests\Exercice4.cs" />
+    <Compile Include="CA_CIB\_Tests\Exercice3.cs" />
+    <Compile Include="CA_CIB\_Tests\Exercice2.cs" />
+    <Compile Include="CA_CIB\_Tests\Exercice1.cs" />
     <Compile Include="Common\Utility\EnumerableComparer.cs" />
     <Compile Include="Common\Utility\SimpleNaturalStringOrder.cs" />
     <Compile Include="FizzBuzzKata\FizzBuzz.cs" />
@@ -113,7 +137,16 @@
     <Compile Include="TheWordWrapKata\WordWrapTest.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BlackJack\_enonce\Exercice1.txt" />
+    <Content Include="BlackJack\_enonce\Exercice2.txt" />
+    <Content Include="BlackJack\_enonce\Exercice3.txt" />
+    <Content Include="BlackJack\_enonce\Exercice4.txt" />
     <Content Include="BowlingGame\TheBowlingGameKata.txt" />
+    <Content Include="CA_CIB\_enonce\Exercice5.txt" />
+    <Content Include="CA_CIB\_enonce\Exercice4.txt" />
+    <Content Include="CA_CIB\_enonce\Exercice3.txt" />
+    <Content Include="CA_CIB\_enonce\Exercice2.txt" />
+    <Content Include="CA_CIB\_enonce\Exercice1.txt" />
     <Content Include="PasswordVerifier\PasswordVerifier.txt" />
     <Content Include="StringCalculator\StringCalculator.txt" />
   </ItemGroup>
