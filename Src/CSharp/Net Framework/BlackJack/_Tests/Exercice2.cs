@@ -38,6 +38,20 @@ namespace TDD_Katas_project.BlackJack
             Assert.That(hand.Points, Is.EqualTo(17), $"Quantite Pasta, attendu : 17, lu : {hand.Points}");
             
         }
+
+        [Test]
+        public void CheckValueHand4Card()
+        {
+            var firstCard = new Card("2");
+            var secondCard = new Card("7");
+
+            var hand = new Hand(firstCard, secondCard);
+
+            hand.AddCard(new Card("3"));
+            hand.AddCard(new Card("4"));
+
+            Assert.That(hand.Points, Is.EqualTo(17), $"Quantite Pasta, attendu : 17, lu : {hand.Points}");
+        }
         #endregion
     }
 }
